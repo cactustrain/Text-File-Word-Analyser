@@ -1,0 +1,9 @@
+Input file: C:\TEST.TXT
+
+
+5 occurence(s) of five
+4 occurence(s) of four
+1 occurence(s) of one
+6 occurence(s) of six
+3 occurence(s) of three
+2 occurence(s) of twoWord count =6Average number of characters =13
